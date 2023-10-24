@@ -1,2 +1,1 @@
-# data-warehousing
-Data warehousing repo
+## Cool SQL stuff
